@@ -1,103 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Baraka%20Sostenes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=17" alt="header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Baraka%20Sostenes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Digital%20Forensics%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF41&center=true&vCenter=true&width=680&lines=Penetration+Tester+%26+Forensics+Analyst;Web+%2B+Network+Security+Specialist;CTF+Player+%7C+Security+Researcher;Building.+Breaking.+Investigating.+Securing." alt="typing" />
-</p>
+# Hi, I'm Baraka Sostenes 👋
+### Cybersecurity & Digital Forensics Engineering Student
 
-<p align="center">
-  <a href="https://github.com/iconjs0"><img src="https://img.shields.io/badge/GitHub-iconjs0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/baraka-sostenes-51930a3a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iconjs0.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=iconjs0&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-iconjs0-181717?style=for-the-badge&logo=github)](https://github.com/iconjs0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baraka_Sostenes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraka-sostenes-51930a3a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iconjs0.github.io/)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<div align="center">
+![Security](https://img.shields.io/badge/FOCUS-Offensive_Security-FF073A?style=flat-square&logo=kalilinux&logoColor=white)
+![Forensics](https://img.shields.io/badge/FOCUS-Digital_Forensics-00D4FF?style=flat-square&logo=wireshark&logoColor=white)
+![CTF](https://img.shields.io/badge/STATUS-Active_Labs_CTF-00FF41?style=flat-square&logo=hackthebox&logoColor=black)
 
-![Cybersecurity](https://img.shields.io/badge/FOCUS-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0A)
-![Forensics](https://img.shields.io/badge/FOCUS-Digital_Forensics-00D4FF?style=for-the-badge&logo=magnifying-glass&logoColor=white&labelColor=0A0A0A)
-![Pentesting](https://img.shields.io/badge/ROLE-Pentester-FF073A?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0A)
+> **Name:** Baraka Sostenes
+> **Role:** Cybersecurity & Digital Forensics Engineering Student
+> **Focus:** Web Security • Penetration Testing • Digital Forensics • Network Security
+> **Philosophy:** Understand the attack to build the defense
 
-**Cybersecurity & Digital Forensics Engineering Student**
-
-*I break systems to understand them — then secure them and prove it with evidence.*
-
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-🎯 **What I Do:**
-- 🔴 Web App Pentesting & OWASP Top 10
-- 🔵 Network Security & Traffic Analysis
-- 🟢 Digital Forensics & Investigations
-- 🏴 CTFs, Labs & Vulnerability Research
-
-⚡ **Currently:** Building a professional pentest methodology + forensic reporting workflow.
-
-📍 **Based in:** Tanzania &nbsp;|&nbsp; 🎓 **Open to:** Internships, Labs, Collaborations
-
-</td>
-<td width="40%" align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90" />
-<br/><br/>
-<b style="color:#00FF41">Kali | Burp | Nmap</b><br/>
-<b style="color:#00D4FF">Autopsy | Wireshark</b>
-</td>
-</tr>
-</table>
+I am focused on **practical cybersecurity, digital investigations, and understanding how systems can be attacked, analyzed, and secured.** I work hands-on with vulnerability assessment, forensic analysis, and CTF labs — documenting every finding like a professional report.
 
 ---
 
-## 🛠 Technical Arsenal
+## 🔐 Areas of Focus
 
-### 🔴 Offensive Security
+- Web Application Security
+- Penetration Testing
+- Digital Forensics
+- Network Security
+- Vulnerability Assessment
+- CTF & Security Labs
+
+---
+
+## 🛠 Technical Toolkit
+
+**Security**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-F16523?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🔵 Forensics & Analysis
-![Autopsy](https://img.shields.io/badge/Autopsy-2D2D2D?style=for-the-badge&logoColor=white)
+**Digital Forensics**
+![Autopsy](https://img.shields.io/badge/Autopsy-2D2D2D?style=for-the-badge)
 ![FTK](https://img.shields.io/badge/FTK_Imager-ED8B00?style=for-the-badge)
-![Hashes](https://img.shields.io/badge/Hash_SHA256-02569B?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![File-System](https://img.shields.io/badge/File_System-NTFS_EXT4-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Hash](https://img.shields.io/badge/Hash-SHA256-02569B?style=for-the-badge)
 
-### 🟢 Systems & Code
+**Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Development**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Work
 
-**[🌐 Cybersecurity Portfolio →](https://iconjs0.github.io/)**
-Technical projects, case studies & forensic write-ups.
+### Cybersecurity Portfolio
+My professional cybersecurity and digital forensics portfolio containing technical projects and case studies.
 
-| Project Area | Focus |
-|---|---|
-| 🌐 Web Security | Burp workflow, OWASP testing, reports |
-| 🕸️ Network Security | Nmap scanning, Wireshark analysis, hardening |
-| 🔍 Forensics | Imaging, file-system analysis, hash verification |
-| 🏴 CTF / Labs | Problem-solving + writeups |
+🔗 https://iconjs0.github.io/
+
+### Security Projects
+Practical work covering web security, network security, digital forensics, and CTF exercises.
 
 ---
 
-## 🛡️ Security Philosophy
-
-```python
-# my_approach.py
-mindset = "think_like_attacker"
-evidence = ["logs", "pcaps", "hashes", "screenshots"]
-workflow = ["recon", "scan", "exploit", "analyze", "report"]
-ethics = "authorized_testing_only"
-rule = "if_not_documented_it_did_not_happen"
+## Engineering Philosophy
