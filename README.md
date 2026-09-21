@@ -105,10 +105,6 @@ Practical work covering web security, network security, digital forensics, and C
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iconjs0&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iconjs0&theme=tokyonight" />
-</div>
-
 ---
 
 ## 2026 Focus
