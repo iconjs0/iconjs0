@@ -17,13 +17,22 @@
 
 ## About Me
 
-**Name:** Baraka Sostenes
-**Role:** Cybersecurity & Digital Forensics Engineering Student
-**Focus:** Offensive Security, Web App Pentesting & Digital Investigations
-**Philosophy:** Understand the Attack to Build the Defense
+<div align="center">
 
-I am focused on **practical cybersecurity, digital investigations, and understanding how systems can be attacked, analyzed, and secured.** I work hands-on with labs, CTFs, vulnerability assessments, and forensic casework — documenting findings like a professional.
+![Security](https://img.shields.io/badge/OFFENSIVE-security-FF073A?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0A0A0A)
+![Forensics](https://img.shields.io/badge/DIGITAL-forensics-00D4FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=0A0A0A)
+![Labs](https://img.shields.io/badge/ACTIVE-labs_ctf-00FF41?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0A0A0A)
 
+</div>
+
+| | |
+|---|---|
+| 👤 **Name** | Baraka Sostenes |
+| 🎓 **Role** | Cybersecurity & Digital Forensics Engineering Student |
+| 🎯 **Focus** | Offensive Security, Web App Pentesting & Digital Investigations |
+| 💡 **Philosophy** | *Understand the Attack to Build the Defense* |
+
+> Hands-on with labs, CTFs, vulnerability assessments, and forensic casework — documenting findings like a professional.
 ---
 
 ## Tech Stack.
