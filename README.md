@@ -1,21 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Baraka%20Sostenes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=16)
 
 <div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/FOCUS-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0A)
-![Forensics](https://img.shields.io/badge/FOCUS-Digital_Forensics-00D4FF?style=for-the-badge&logo=magnifying-glass&logoColor=white&labelColor=0A0A0A)
-![Pentesting](https://img.shields.io/badge/ROLE-Pentester-FF073A?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0A)
-
-**Cybersecurity & Digital Forensics Engineering Student**
-
-*I break systems to understand them — then secure them and prove it with evidence.*
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%26+Forensics+Analyst;Web+%2B+Network+Security+Specialist;CTF+Player+%7C+Security+Researcher;Building.+Breaking.+Investigating.+Securing." alt="Typing SVG" />
 </div>
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iconjs0-181717?style=for-the-badge&logo=github)](https://github.com/iconjs0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baraka_Sostenes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraka-sostenes-51930a3a1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-live-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://iconjs0.github.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=iconjs0&color=blueviolet&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iconjs0.github.io/)
+![Profile Views](https://komarev.com/ghpvc/?username=iconjs0&color=6C63FF&style=flat-square)
 
 </div>
 
@@ -31,14 +25,13 @@
 
 </div>
 
-| | |
-|---|---|
-| 👤 **Name** | Baraka Sostenes |
-| 🎓 **Role** | Cybersecurity & Digital Forensics Engineering Student |
-| 🎯 **Focus** | Offensive Security, Web App Pentesting & Digital Investigations |
-| 💡 **Philosophy** | *Understand the Attack to Build the Defense* |
+- 👤 **Name:** Baraka Sostenes
+- 🎓 **Role:** Cybersecurity & Digital Forensics Engineering Student
+- 🎯 **Focus:** Offensive Security, Web App Pentesting & Digital Investigations
+- 💡 **Philosophy:** *Understand the Attack to Build the Defense*
 
 > Hands-on with labs, CTFs, vulnerability assessments, and forensic casework — documenting findings like a professional.
+
 ---
 
 ## Tech Stack.
@@ -46,15 +39,15 @@
 ### Offensive Security.
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Digital Forensics.
 
-![Autopsy](https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge&logo=dataicon&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-ED8B00?style=for-the-badge&logo=magnetforensics&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2D2D2D?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-ED8B00?style=for-the-badge)
 ![Hash Verification](https://img.shields.io/badge/Hash_Verification-SHA256-02569B?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![File System Analysis](https://img.shields.io/badge/File_System-NTFS_EXT4-333333?style=for-the-badge&logo=linux&logoColor=white)
 
