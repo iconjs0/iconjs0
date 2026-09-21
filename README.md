@@ -119,5 +119,5 @@ Practical work covering web security, network security, digital forensics, and C
 
 *"Building. Breaking. Investigating. Securing."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn)
 
