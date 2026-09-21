@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Baraka%20Sostenes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=200&section=header&text=Baraka%20Sostenes&fontSize=45&fontColor=ffffff)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%26+Forensics+Analyst;Web+%2B+Network+Security+Specialist;CTF+Player+%7C+Security+Researcher;Building.+Breaking.+Investigating.+Securing." alt="Typing SVG" />
