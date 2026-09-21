@@ -70,3 +70,54 @@
 ---
 
 ## 🔐 Areas of Focus
+
+---
+
+## 🚀 Featured Work
+
+### [Cybersecurity Portfolio](https://iconjs0.github.io/)
+My professional cybersecurity and digital forensics portfolio — technical projects, case studies, and write-ups.
+
+### Security Labs & Projects
+Practical work covering web security, network security, digital forensics, and CTF exercises.
+- Web pentest methodology + reporting practice
+- Network scanning & hardening labs
+- Forensic imaging, file-system and hash analysis
+- Vulnerability assessment reports
+
+
+## Security Philosophy
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iconjs0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+  <img height="165" src="https://streak-stats.demolab.com?user=iconjs0&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iconjs0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iconjs0&theme=tokyonight" />
+</div>
+
+---
+
+## 2026 Focus
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraka-sostenes-51930a3a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iconjs0.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iconjs0)
+
+*"Building. Breaking. Investigating. Securing."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn)
+
