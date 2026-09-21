@@ -1,10 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Baraka%20Sostenes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Penetration+Tester+%7C+Forensics+Analyst;Web+%2B+Network+Security;CTF+Player+%7C+Security+Researcher;Building.+Breaking.+Investigating.+Securing." alt="Typing SVG" />
-</div>
 
-<div align="center">
+![Cybersecurity](https://img.shields.io/badge/FOCUS-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0A)
+![Forensics](https://img.shields.io/badge/FOCUS-Digital_Forensics-00D4FF?style=for-the-badge&logo=magnifying-glass&logoColor=white&labelColor=0A0A0A)
+![Pentesting](https://img.shields.io/badge/ROLE-Pentester-FF073A?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0A)
+
+**Cybersecurity & Digital Forensics Engineering Student**
+
+*I break systems to understand them — then secure them and prove it with evidence.*
+
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-iconjs0-181717?style=for-the-badge&logo=github)](https://github.com/iconjs0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baraka_Sostenes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraka-sostenes-51930a3a1/)
