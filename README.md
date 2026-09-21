@@ -78,8 +78,6 @@ Practical work covering web security, network security, digital forensics, and C
 - Forensic imaging, file-system and hash analysis
 - Vulnerability assessment reports
 
-> Pin your best 3-4 repos below this section on GitHub (Portfolio, Web-Pentest-Lab, Forensics-Case, CTF-Writeups).
-
 ---
 
 ## Security Philosophy
